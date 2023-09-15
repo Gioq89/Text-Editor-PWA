@@ -6,6 +6,9 @@ This challenge is to build a text editor that runs in the browser. The app will 
 ## Usage
 To use this application, copy code to system and run npm install. 
 
+## Screenshot
+![Screenshot](./assets/pwa-texteditor-screenshot.png)
+
 ## Heroku Link
 
 ## Questions
