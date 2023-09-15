@@ -28,7 +28,7 @@ const request = store.put({
 });
 
 const result = await request;
-console.log(result);
+console.log(result.value);
 };
 
 // TODO: Add logic for a method that gets all the content from the database
@@ -41,11 +41,11 @@ const tx = jateDb.transaction('jate', 'readonly');
 
 const store = tx.objectStore('jate');
 
-const request = store.getAll();
+const request = store.getAll(1);
 
 const result = await request;
 console.log(result);
-return result;
+return result.value;
 };
 
 initdb();
