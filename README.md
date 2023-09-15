@@ -10,6 +10,7 @@ To use this application, copy code to system and run npm install.
 ![Screenshot](./assets/pwa-texteditor-screenshot.png)
 
 ## Heroku Link
+https://jate-editor24-21c075ec6935.herokuapp.com/
 
 ## Questions
 If you have any questions, feel free to reach out to me:
