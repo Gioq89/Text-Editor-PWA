@@ -4,7 +4,7 @@
 This challenge is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.. 
 
 ## Usage
-To use this application, copy code to system and run npm install. 
+To use this application, copy code to system and run npm install. Once the application opens, you can either use the text editor on the browser or you can install it. If installed, it can be used offline.  
 
 ## Screenshot
 ![Screenshot](./assets/pwa-texteditor-screenshot.png)
